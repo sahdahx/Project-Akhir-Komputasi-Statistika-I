@@ -51,3 +51,6 @@ Public Dashboard Link: [https://sahdahuwaidah.shinyapps.io/Inferensii/](https://
 - Karinna Tri Hayuningsih
 - Nasywaa Zaveln
 
+Program Studi Statistika
+Departemen Matematika, Fakultas MIPA
+Universitas Gadjah Mada, Sleman, Indonesia
