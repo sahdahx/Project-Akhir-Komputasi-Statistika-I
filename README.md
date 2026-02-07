@@ -4,7 +4,7 @@
 This project aims to create an **interactive dashboard for statistical inference analysis** using **R Shiny**.  
 The dashboard allows users to perform hypothesis testing, descriptive analysis, and data visualization interactively.
 
-Public Dashboard Link: sahdahuwaidah.shinyapps.io/Inferensii
+Public Dashboard Link: [sahdahuwaidah.shinyapps.io/Inferensii]
 
 ---
 
