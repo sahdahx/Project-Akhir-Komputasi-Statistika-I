@@ -44,6 +44,16 @@ Public Dashboard Link: [https://sahdahuwaidah.shinyapps.io/Inferensii/](https://
 
 ---
 
+## 🖼 Screenshots
+
+![One-Sample Test Page](img/img_1pop.png)  
+
+![Two Dependent Samples Test Page](img/img_2pop dependen.png)  
+
+![One-Way ANOVA Page](img/img_uji anova.png)  
+
+---
+
 ## 👥 Contributors
 - Alfaini Mirza Salsabella
 - Ailsa Eufa Nadita Hara
