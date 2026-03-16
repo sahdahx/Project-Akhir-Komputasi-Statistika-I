@@ -44,7 +44,7 @@ Public Dashboard Link: [https://sahdahuwaidah.shinyapps.io/Inferensii/](https://
 
 ---
 
-## 🖼 Screenshots
+## 🖼 Image Overview
 
 ![One-Sample Test Page](img/img_1pop.png)  
 
