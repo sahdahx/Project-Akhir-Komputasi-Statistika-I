@@ -48,9 +48,9 @@ Public Dashboard Link: [https://sahdahuwaidah.shinyapps.io/Inferensii/](https://
 
 ![One-Sample Test Page](img/img_1pop.png)  
 
-![Two Dependent Samples Test Page](img/img_2pop dependen.png)  
+![Two Dependent Samples Test Page](img/img_2popdependen.png)  
 
-![One-Way ANOVA Page](img/img_uji anova.png)  
+![One-Way ANOVA Page](img/img_ujianova.png)  
 
 ---
 
